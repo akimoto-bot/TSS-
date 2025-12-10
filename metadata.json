@@ -1,0 +1,5 @@
+{
+  "name": "TSS Sports School Simulator",
+  "description": "A tuition fee calculator for TSS Sports School allowing parents to estimate monthly and annual costs for up to 3 children based on grades and course selections.",
+  "requestFramePermissions": []
+}
